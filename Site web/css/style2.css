@@ -2,7 +2,7 @@
 /* Styles de base */
 body {
     background-image:url(../image/Arriere\ plan\ flou.jpg);
-    margin:0px;
+    
 
     
 }
@@ -105,3 +105,7 @@ footer {
   .navbar a:hover {
     background-color: #555; 
   }
+.youtubspher{
+                width:560px;
+                height:315px;
+            }
